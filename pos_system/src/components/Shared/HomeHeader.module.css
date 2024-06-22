@@ -1,0 +1,30 @@
+.navBar{
+display: flex;
+/* flex-grow: 1; */
+width: 100%;
+background-color: rgb(34, 203, 90);
+/* justify-content: flex-start; */
+
+
+}.navBar button{
+    color:white;
+    font-weight:600px ;
+}
+.primaryNavBar{
+    padding-left: 20px;
+    flex-grow: 1;
+     
+}
+.primaryNavBar img{
+    object-fit: contain;
+}
+.secondaryNavBar{
+    
+    
+    /* display: flex; */
+    justify-content: space-around;
+    flex-grow:1 ;
+    /* padding-right: 100px; */
+
+}
+

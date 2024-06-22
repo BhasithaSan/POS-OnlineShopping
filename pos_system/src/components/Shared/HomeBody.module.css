@@ -1,0 +1,23 @@
+/* HomeBody.module.css */
+.backGroundimg {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .theme {
+    position: absolute;
+    top: 19%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+  }
+  
